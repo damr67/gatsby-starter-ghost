@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://yelitzarodriguez-ghost.herokuapp.com/ghost",
+    "apiUrl": "https://yelitzarodriguez-ghost.herokuapp.com",
     "contentApiKey": "0dbab95ce1c2ab2f5bb8f5c6f7"
   },
   "production": {
-    "apiUrl": "https://yelitzarodriguez-ghost.herokuapp.com/ghost",
+    "apiUrl": "https://yelitzarodriguez-ghost.herokuapp.com",
     "contentApiKey": "0dbab95ce1c2ab2f5bb8f5c6f7"
   }
 }
